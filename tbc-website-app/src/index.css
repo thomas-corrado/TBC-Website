@@ -1,0 +1,22 @@
+/* * {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.green-box {
+    background-color: #345C31;
+    width: 100vw;
+    height: 13vw;
+    position: absolute;
+}
+
+#title-header {
+    text-align: center;
+    position: relative;
+    top: 5vw;
+    color: white;
+    font-size: 5vw;
+    -webkit-text-stroke: 2px black;
+}
+ */

@@ -1,0 +1,104 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.green-box {
+    background-color: #345C31;
+    width: 100vw;
+    height: 13vw;
+    position: absolute;
+}
+
+#title-header {
+    text-align: center;
+    position: relative;
+    top: 1.5vw;
+    color: white;
+    font-size: 8vw;
+    -webkit-text-stroke: .03vw black; 
+    font-family: 'Patua One', cursive;
+}
+
+.buttons {
+    /* max-width: 30vw;
+    height: 5vw; */
+    /* margin: 4vw 2vw; */
+    text-align: center;
+}
+
+#button-1 {
+    text-align: center;
+    top: 16vw;
+    left: 47.5vw; 
+    background-color: #588E54;
+    color: white;
+    -webkit-text-stroke: .125vw black;
+    font-family: 'Patua One', cursive;
+    font-size: 4vw;
+    position: relative;
+    border-radius: 1vw;
+    padding-left: 7.95vw;
+    padding-right: 7.95vw;
+}
+
+#button-2 {
+    text-align: center;
+    top: 23.5vw;
+    left: 14.18vw;
+    background-color: #588E54;
+    color: white;
+    -webkit-text-stroke: .125vw black;
+    font-family: 'Patua One', cursive;
+    font-size: 4vw;
+    position: relative;
+    border-radius: 1vw;
+    padding-left: 8.30vw;
+    padding-right: 8.30vw;
+}
+
+#button-3 {
+    text-align: center;
+    top: 25.7vw;
+    left: 47.5vw;
+    background-color: #588E54;
+    color: white;
+    -webkit-text-stroke: .125vw black;
+    font-family: 'Patua One', cursive;
+    font-size: 4vw;
+    position: relative;
+    border-radius: 1vw;
+    padding-left: 9vw;
+    padding-right: 9vw;
+}
+
+#button-4 {
+    text-align: center;
+    top: 33.2vw;
+    left: 14.1vw;
+    background-color: #588E54;
+    color: white;
+    -webkit-text-stroke: .125vw black;
+    font-family: 'Patua One', cursive;
+    font-size: 4vw;
+    position: relative;
+    border-radius: 1vw;
+    padding-left: 2.45vw;
+    padding-right: 2.45vw;
+}
+
+#button-5 {
+    text-align: center;
+    top: 35.7vw;
+    left: 30.8vw;
+    background-color: #588E54;
+    color: white;
+    -webkit-text-stroke: .125vw black;
+    font-family: 'Patua One', cursive;
+    font-size: 4vw;
+    position: relative;
+    border-radius: 1vw;
+    padding-left: 5.05vw;
+    padding-right: 5.05vw;
+}
