@@ -161,15 +161,6 @@ video {
     padding-right: calc(3vw + 3vh);
 }
 
-.photo-box-home {
-    /* position: absolute;
-    background-color: #588E54;
-    top: calc(14.75vw + 14.75vh);
-    width: 55vw; 
-    height: 45vh;
-    left: 4.5vw; */
-}
-
 .photos {
     position: absolute;
     /* background-color: #588E54; */
